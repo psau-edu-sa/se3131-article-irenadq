@@ -1,1 +1,1 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9329427&assignment_repo_type=AssignmentRepo)
+[بحث توصيفات.pdf](https://github.com/psau-edu-sa/se3131-article-irenadq/files/10009530/default.pdf)
